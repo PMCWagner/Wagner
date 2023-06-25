@@ -1,8 +1,9 @@
 api_id = 25983686
 api_hash = "d49ffa3e2b617c66250b7f4c169d1cb9"
-chance = 7
-ignoreusers = []
-ignorechats = []
-reactions = "❤️🔥"
+chance = 0
+ignoreusers = [1629834592,5724359004,5240405958,750575735,855322807,
+5536444135,595176465,702812093,6264690107,5012996816,5085091793]
+ignorechats = [1870329640,1779989004,1713418688]
+reactions = "😁"
 send_pm = False
 chat_leave = False
